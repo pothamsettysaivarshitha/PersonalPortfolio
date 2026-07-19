@@ -9,7 +9,7 @@ const CERTS = [
   {
     name: "NPTEL Silver - Internet of Things (80%)",
     issuer: "NPTEL",
-    file: "/nptel-iot.PDF",
+    file: "/iot nptel.pdf",
   },
 ];
 

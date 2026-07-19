@@ -809,27 +809,27 @@ const CERTS = [
   {
     name: "CSI First Prize - Poster Presentation",
     issuer: "Computer Society of India (CSI)",
-    file: "/csi.pdf",
+    file: "/csi.PDF",
   },
   {
     name: "NPTEL Silver - Internet of Things (80%)",
     issuer: "NPTEL",
-    file: "/iot-nptel.pdf",
+    file: "/iot nptel.pdf",
   },
   {
     name: "NPTEL Elite - Privacy & Security in Online Social Media (54%)",
     issuer: "NPTEL",
-    file: "/nptel-privacy-security.pdf",
+    file: "/Privacy and Security in Online Social Media.pdf",
   },
   {
     name: "TCS iON Java Certification",
     issuer: "TCS iON",
-    file: "/tcsion-java.pdf",
+    file: "/tcsion java.pdf",
   },
   {
     name: "Infosys Java Certification",
     issuer: "Infosys",
-    file: "/infosys-java-certificate.pdf",
+    file: "/infosys java certificate.pdf",
   },
 ];
 
